@@ -87,7 +87,9 @@ npm run dev
 
 ## Deployment
 
-**Live Demo:** https://enochsystems.vercel.app
+## Live Demo
+ 
+[View Live Site](https://enochsystems.vercel.app)
 
 This project is deployed on Vercel (automatic deployment from GitHub).
 
